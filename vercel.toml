@@ -1,0 +1,11 @@
+{
+  "buildCommand": "turbo build --filter example-blog",
+  "outputDirectory": "examples/blog/.next",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "functions": {
+	"examples/blog/pages/api/**/*.js": {
+	  "runtime": "nodejs18.x"
+	}
+  }
+}
