@@ -1,0 +1,6 @@
+{
+  "name": "README Emojifier",
+  "description": "An AI-powered tool to automatically add engaging emojis to your GitHub README files, making them more scannable and visually appealing.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
